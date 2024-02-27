@@ -1,0 +1,3 @@
+[submodule "Spiking Simulation/LC"]
+	path = Spiking Simulation/LC
+	url = https://github.com/Chan-Li/Easy-framework-for-EI-balance.git
