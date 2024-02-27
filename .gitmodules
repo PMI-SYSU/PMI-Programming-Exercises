@@ -1,3 +1,6 @@
 [submodule "Spiking Simulation/LC"]
 	path = Spiking Simulation/LC
 	url = https://github.com/Chan-Li/Easy-framework-for-EI-balance.git
+[submodule "RNN/LC"]
+	path = RNN/LC
+	url = https://github.com/Chan-Li/Pure-python-realizations-of-deep-learning-networks.git
